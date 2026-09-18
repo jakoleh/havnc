@@ -2,6 +2,10 @@
 
 Notable and less notable changes. 
 
+## [0.1.4-DRAGON]
+
+- refresh button added to index.html.
+
 ## [0.1.3-DRAGON]
 
 - Updated the base image from Alpine 3.19 to Alpine 3.24.
