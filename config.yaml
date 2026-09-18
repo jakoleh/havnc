@@ -1,13 +1,11 @@
 name: "HAVNC-DRAGONS"
 description: "VNC straight to your dashboard - here be dragons version (also known as bleeding edge, might not work)"
-version: "0.1.3"
+version: "0.1.4"
 slug: "havnc-dragons"
 init: false
 full_access: false
 arch:
-  - aarch64
   - amd64
-  - armhf
 ports:
   8080/tcp: 8080
 options:
