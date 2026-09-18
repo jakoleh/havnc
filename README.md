@@ -10,7 +10,7 @@ Very useful in case your browser don't support all the newfangled webstuff but e
 For example the iPad2.
 
 ## Usage
-Install from my [ha-addon repository](https://github.com/gnyman/ha-addons) or manually. Note that this DRAGON build is quite big and on a PI it will take *a long time* to download and extract the first time. Have patience, enjoy a cup of hot beverage.
+Install from my [ha-addon repository](https://github.com/jakoleh/ha-addons) or manually. Note that this DRAGON build is quite big and on a PI it will take *a long time* to download and extract the first time. Have patience, enjoy a cup of hot beverage.
 
 After you have installed it, check the configuration page. Read the descriptions.
 
