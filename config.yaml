@@ -20,4 +20,4 @@ schema:
   password: "password"
   persist_data: "bool"
   browser: "list(chromium|firefox|firefox-esr|luakit)?"
-image: "ghcr.io/gnyman/{arch}-havnc-dragons"
+image: "ghcr.io/jakoleh/{arch}-havnc-dragons"
